@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sreelekshman
-- 👀 I’m interested in andorid
-- 🌱 I’m currently learning about making custom android roms
-- 💞️ I’m just a beginner..
-- 📫 How to reach me Email: sreelekshmanchunakara@gmail.com
+Hi there! I'm Sreelekshman , a Data Science student with a passion for software and data.
+I love exploring new technologies and finding creative solutions to complex problems.
+
+When I'm not coding, you can usually find me on Instagram @sree_lekshman
+
+Feel free to reach out to me if want to chat!
 
 <!---
 sreelekshman/sreelekshman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
