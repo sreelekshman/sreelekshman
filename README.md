@@ -1,8 +1,6 @@
 # About Me
 Hi there! I'm Sreelekshman , a Data Science student with a passion for software and data<br>I am currently working on bladerunner trees<br>I love exploring new technologies and finding creative solutions to complex problems
 
-[![](https://visitcount.itsvg.in/api?id=sreelekshman&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sreelekshman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sreelekshman&theme=dark&hide_border=true)<br/>
