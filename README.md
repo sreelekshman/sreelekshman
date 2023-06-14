@@ -1,6 +1,6 @@
 # About Me
 Hi there! I'm Sreelekshman , a Data Science student with a passion for software and data<br>I am currently working on bladerunner trees<br>I love exploring new technologies and finding creative solutions to complex problems
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21hw6ieao7tc4if2elgm5mlii&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21hw6ieao7tc4if2elgm5mlii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hw6ieao7tc4if2elgm5mlii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=21hw6ieao7tc4if2elgm5mlii&redirect=true)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sreelekshman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
